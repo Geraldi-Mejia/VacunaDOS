@@ -1,0 +1,11 @@
+com\geraldi\domain\Rounds.class
+com\geraldi\vacunados\VacunaDOS.class
+com\geraldi\domain\MessageAPI.class
+com\geraldi\gui\PanelPrincipal.class
+com\geraldi\domain\Group.class
+com\geraldi\domain\NewGameRequest.class
+com\geraldi\domain\GameHeader.class
+com\geraldi\domain\Game.class
+com\geraldi\connection\ConnectionAPI.class
+com\geraldi\gui\VentanaPrincipal.class
+com\geraldi\domain\ErrorMessageAPI.class
